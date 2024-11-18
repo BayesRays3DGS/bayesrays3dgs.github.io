@@ -1,14 +1,15 @@
 # Re-Nerfing
 
-This is the repository that contains source code for the [FLex website](https://flexendo.github.io).
+This is the repository that contains source code for the [BayesRays3DGS website](https://bayesrays3dgs.github.io).
 
-If you find FLex useful for your work please cite:
+If you find this project useful for your work please cite:
 ```
-@article{stilz2024flex,
-  title={FLex: Joint Pose and Dynamic Radiance Fields Optimization for Stereo Endoscopic Videos},
-  author={Stilz, Florian Philipp and Karaoglu, Mert Asim and Tristram, Felix and Navab, Nassir and Busam, Benjamin and Ladikos, Alexander},
-  journal={arXiv preprint arXiv:2403.12198},
-  year={2024}
+@bachelorthesis{bayesrays3dgs,
+  author  = {Leo Eckert, Nassir Navab, Felix Tristram},
+  title   = {Reconstruction Uncertainty Estimation for Gaussian Splatting Methods},
+  school  = {Technical University of Munich},
+  year    = {2024},
+  note    = {CAMP}
 }
 ```
 
