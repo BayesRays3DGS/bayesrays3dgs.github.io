@@ -5,7 +5,7 @@ This is the repository that contains source code for the [BayesRays3DGS website]
 If you find this project useful for your work please cite:
 ```
 @software{bayesrays3dgs,
-  author  = {Leo Eckert, Nassir Navab, Felix Tristram},
+  author  = {Leo Eckert and Nassir Navab and Felix Tristram},
   title   = {BayesRays3DGS: Reconstruction Uncertainty Estimation for Gaussian Splatting Methods},
   url  = {https://github.com/LeoEckert02/BayesRays3DGS},
   year    = {2024}
