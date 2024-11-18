@@ -8,8 +8,7 @@ If you find this project useful for your work please cite:
   author  = {Leo Eckert, Nassir Navab, Felix Tristram},
   title   = {BayesRays3DGS: Reconstruction Uncertainty Estimation for Gaussian Splatting Methods},
   url  = {https://github.com/LeoEckert02/BayesRays3DGS},
-  year    = {2024},
-  note    = {CAMP}
+  year    = {2024}
 }
 ```
 
