@@ -4,10 +4,10 @@ This is the repository that contains source code for the [BayesRays3DGS website]
 
 If you find this project useful for your work please cite:
 ```
-@bachelorthesis{bayesrays3dgs,
+@software{bayesrays3dgs,
   author  = {Leo Eckert, Nassir Navab, Felix Tristram},
-  title   = {Reconstruction Uncertainty Estimation for Gaussian Splatting Methods},
-  school  = {Technical University of Munich},
+  title   = {BayesRays3DGS: Reconstruction Uncertainty Estimation for Gaussian Splatting Methods},
+  url  = {https://github.com/LeoEckert02/BayesRays3DGS},
   year    = {2024},
   note    = {CAMP}
 }
