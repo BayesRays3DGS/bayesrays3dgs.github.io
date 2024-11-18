@@ -1,4 +1,4 @@
-# Re-Nerfing
+# BayesRays3DGS
 
 This is the repository that contains source code for the [BayesRays3DGS website](https://bayesrays3dgs.github.io).
 
